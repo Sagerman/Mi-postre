@@ -118,10 +118,10 @@ function App() {
             </p>
             <div className="space-y-4 md:space-y-6 pt-6 md:pt-8">
               <p className="text-sm md:text-base font-body text-foreground">
-                <strong>Teléfono:</strong> +57 310 4823248
+                <strong>Teléfono:</strong> 
               </p>
               <a
-                href="https://wa.me/573104823248?text=Hola%2C%20quiero%20ordenar%20un%20postre%20por%20favor"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-[#25D366] hover:bg-[#20BA5A] text-white font-body font-medium px-8 py-4 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl text-sm md:text-base uppercase tracking-wider"
